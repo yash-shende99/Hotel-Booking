@@ -659,3 +659,4 @@ export const hotelsData = [
     ]
   }
 ];
+// minor update 6314
