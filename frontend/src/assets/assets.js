@@ -660,3 +660,5 @@ export const hotelsData = [
   }
 ];
 // minor update 6314
+
+// minor update 9962
